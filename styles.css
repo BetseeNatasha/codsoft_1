@@ -1,0 +1,72 @@
+.profile container{
+height:auto;
+width:auto;
+}
+.corner-text {
+font-family:"Brush Script MT";
+font-size: 25px;           
+color: red;             
+position: absolute;
+top:0px;
+left: 10px;
+padding:0px;
+}
+.about{
+font-family:"Impact";
+font-size:50px;
+color:purple;
+}
+.intro{
+font-family:"Comic Sans MS";
+font-size:30px;
+} 
+.menu {
+position: absolute;
+            top: 60px;
+            right: 10px;
+            width: 200px;             
+            background-color:black;
+            color: white;
+            padding: 10px;
+        }
+        .menu a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .menu a:hover {
+            background-color: #575757;
+        }
+.school{
+            width: auto;
+            height: auto;
+            border: 2px solid #333;
+            border-radius: 10px;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+}
+.skills {
+position: fixed;
+            top: 80px;
+            right: 10px;
+            width: 200px;             
+            background-color:black;
+            color: white;
+            padding: 10px;
+        }
+        .skills a {
+            color: white;
+            text-decoration: none;
+            display: block;
+            padding: 10px 0;
+        }
+        .skills:hover {
+            background-color: #575757;
+        }
+.skill{
+font-family:"Comic Sans MS";
+font-size:30px;
+} 
+
+
+        
